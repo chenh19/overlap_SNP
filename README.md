@@ -1,5 +1,6 @@
 # Overlap_SNP
-*An automated overlapped SNP extraction tool*    
+**An automated overlapped SNP extraction tool**    
+*Current version: v0.1.0*
 
 ### Resources
 - [Illumina SNP array file](https://support.illumina.com/array/array_kits/infinium-global-diversity-array/product-files.html)
