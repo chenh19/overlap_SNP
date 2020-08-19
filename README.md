@@ -1,5 +1,5 @@
 # OverlapSNP
-**An automated overlapped SNP extracting tool**    
+**An automated panel-overlapped SNP extracting tool**    
 *Current version: v0.1.0*
 
 ### Resources
