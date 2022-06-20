@@ -6,10 +6,10 @@
 - [Illumina SNP array file](https://support.illumina.com/array/array_kits/infinium-global-diversity-array/product-files.html)
 - [AmpliSeq](https://www.illumina.com/products/by-brand/ampliseq.html) target panel (an example [here](https://github.com/chenh19/overlap_SNP/blob/master/Amplicon.csv))
 
-### GenomicRanges package installing
+### Package installing (in terminal)
 ```
 sudo -i R
-if (!requireNamespace("BiocManager", quietly = TRUE))
-    install.packages("BiocManager")
+install.packages(c("foreach", "doParallel", "dplyr", "tidyr", "filesstrings", "GenomicRanges"))
 BiocManager::install("GenomicRanges")
+q()
 ```
