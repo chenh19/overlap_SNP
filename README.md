@@ -4,7 +4,7 @@
 
 ### Resources
 - [Illumina SNP array file](https://support.illumina.com/array/array_kits/infinium-global-diversity-array/product-files.html)
-- [AmpliSeq](https://www.illumina.com/products/by-brand/ampliseq.html) target panel ([an example](https://raw.githubusercontent.com/chenh19/overlap_SNP/master/Amplicon.csv))
+- [AmpliSeq](https://www.illumina.com/products/by-brand/ampliseq.html) target panel ([an example](https://github.com/chenh19/overlap_SNP/blob/master/Amplicon.csv))
 
 ### GenomicRanges package installing
 ```
