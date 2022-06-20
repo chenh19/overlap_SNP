@@ -4,7 +4,7 @@
 
 ### Resources
 - [Illumina SNP array file](https://support.illumina.com/array/array_kits/infinium-global-diversity-array/product-files.html)
-- Variant ref library made with [BRStudio](https://github.com/chenh19/BRStudio)
+- [AmpliSeq](https://www.illumina.com/products/by-brand/ampliseq.html) target panel, such as the one used for [BRStudio](https://github.com/chenh19/BRStudio)
 
 ### GenomicRanges package installing
 ```
