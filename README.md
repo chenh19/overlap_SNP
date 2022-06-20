@@ -8,7 +8,7 @@
 
 ### Package installing
 ```
-# After installing R and RStudio
+# after installing R
 sudo -i R
 install.packages(c("foreach", "doParallel", "dplyr", "tidyr", "filesstrings", "GenomicRanges"))
 BiocManager::install("GenomicRanges")
