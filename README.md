@@ -1,5 +1,5 @@
 # OverlapSNP
-**An automated panel-overlapped SNP extracting tool**    
+**An automated extracting tool for Illumina SNP arrary/AmpliSeq panel overlapped SNPs**    
 *Current version: v0.1.0*
 
 ### Resources
